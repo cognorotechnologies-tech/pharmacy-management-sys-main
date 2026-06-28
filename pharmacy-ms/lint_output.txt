@@ -1,0 +1,199 @@
+
+> pharmacy-ms@0.0.0 lint
+> eslint .
+
+
+D:\PharmacyManagementSys\pharmacy-ms\src\contexts\AuthContext.tsx
+  144:17  error  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\useDashboard.ts
+   52:52  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   76:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  144:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  231:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  260:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:29  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  290:38  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  401:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  523:47  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\usePatients.ts
+  164:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\usePrescriptions.ts
+  1:21  error  'useCallback' is defined but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\useProducts.ts
+  95:28  error  '_inv' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  95:43  error  '_bat' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\useReports.ts
+   57:55   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   67:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  151:35   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  154:44   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  158:71   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  166:64   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  188:44   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  190:55   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:68   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  225:23   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  246:42   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  304:41   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  314:56   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  316:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  380:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  382:39   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  388:55   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  393:62   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  394:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  398:61   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  398:102  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  400:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  402:57   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  447:31   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  452:39   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:48   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\hooks\useSales.ts
+  357:35  error  '_p' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  357:51  error  '_si' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  411:31  error  '_p' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  411:44  error  '_c' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  411:62  error  '_r' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  411:78  error  '_si' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  421:39  error  '_pr' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\lib\exportUtils.ts
+  1:54  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  8:32  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\dashboard\AdminDashboard.tsx
+  155:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:127  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  237:60   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\dashboard\CashierDashboard.tsx
+  142:61  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\dashboard\InventoryStaffDashboard.tsx
+  26:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  28:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\dashboard\PharmacistDashboard.tsx
+    6:10  error  'format' is defined but never used        @typescript-eslint/no-unused-vars
+    6:18  error  'parseISO' is defined but never used      @typescript-eslint/no-unused-vars
+   57:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:63  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\dashboard\SuperAdminDashboard.tsx
+   91:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  109:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\inventory\ProductsPage.tsx
+  10:51  error  'Trash2' is defined but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\patients\PatientProfilePage.tsx
+   79:39   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:58   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  223:21   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  265:100  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  275:70   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  579:43   error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\prescriptions\CreatePrescriptionPage.tsx
+  117:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  142:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  588:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\prescriptions\DispensePrescriptionPage.tsx
+  93:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\prescriptions\PrescriptionQueuePage.tsx
+  5:26  error  'User' is defined but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\purchasing\PurchaseOrdersPage.tsx
+  16:25  error  'PurchaseOrder' is defined but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\FinancialReport.tsx
+  20:68  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  51:9   error  'totalDiscounts' is assigned a value but never used                                                                                                                                          @typescript-eslint/no-unused-vars
+  54:5   error  React Hook "useEffect" is called conditionally. React Hooks must be called in the exact same order in every component render. Did you accidentally call a React Hook after an early return?  react-hooks/rules-of-hooks
+  57:68  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  70:56  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  75:42  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\InventoryReport.tsx
+  24:67  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\PrescriptionReport.tsx
+   18:74  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+   57:5   error  React Hook "useEffect" is called conditionally. React Hooks must be called in the exact same order in every component render. Did you accidentally call a React Hook after an early return?  react-hooks/rules-of-hooks
+   60:74  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  132:65  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  168:67  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\PurchasesReport.tsx
+   30:61  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+   66:5   error  React Hook "useEffect" is called conditionally. React Hooks must be called in the exact same order in every component render. Did you accidentally call a React Hook after an early return?  react-hooks/rules-of-hooks
+   69:61  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+  143:86  error  Unexpected any. Specify a different type                                                                                                                                                     @typescript-eslint/no-explicit-any
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\ReportsPage.tsx
+   6:62  error  'ChevronDown' is defined but never used              @typescript-eslint/no-unused-vars
+  26:25  error  'setCustomRange' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\SalesReport.tsx
+   22:61  error  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           @typescript-eslint/no-explicit-any
+   57:56  error  Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           @typescript-eslint/no-explicit-any
+  130:52  error  Error: Cannot create components during render
+
+Components created during render will reset their state each time they are created. Declare components outside of render.
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\SalesReport.tsx:130:52
+  128 |                                 <XAxis dataKey="date" axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} dy={10} />
+  129 |                                 <YAxis axisLine={false} tickLine={false} tick={{ fontSize: 12, fill: '#64748b' }} tickFormatter={(val: number) => `$${val}`} dx={-10} />
+> 130 |                                 <Tooltip content={<CustomTooltip />} />
+      |                                                    ^^^^^^^^^^^^^ This component is created during render
+  131 |                                 <Area type="monotone" dataKey="amount" stroke="#10b981" strokeWidth={3} fillOpacity={1} fill="url(#colorRevenue)" />
+  132 |                             </AreaChart>
+  133 |                         </ResponsiveContainer>
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\reports\SalesReport.tsx:57:27
+  55 |     } = data;
+  56 |
+> 57 |     const CustomTooltip = ({ active, payload, label }: any) => {
+     |                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 58 |         if (active && payload && payload.length) {
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 59 |             return (
+     …
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 68 |         return null;
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 69 |     };
+     | ^^^^^^ The component is created during render here
+  70 |
+  71 |     return (
+  72 |         <div className="space-y-8 animate-in fade-in duration-500">  react-hooks/static-components
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\sales\POSHistoryTab.tsx
+  222:45  error  Expected an assignment or function call and instead saw an expression  @typescript-eslint/no-unused-expressions
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\sales\POSPage.tsx
+  177:8  warning  React Hook useCallback has a missing dependency: 'addToCart'. Either include it or remove the dependency array        react-hooks/exhaustive-deps
+  367:8  warning  React Hook useCallback has a missing dependency: 'activeShift?.id'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\sales\ReceiptModal.tsx
+  13:10  error  'toast' is defined but never used  @typescript-eslint/no-unused-vars
+
+D:\PharmacyManagementSys\pharmacy-ms\src\pages\sales\ShiftSidebar.tsx
+  44:18  error  'err' is defined but never used  @typescript-eslint/no-unused-vars
+
+✖ 105 problems (103 errors, 2 warnings)
+
